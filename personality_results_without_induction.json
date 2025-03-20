@@ -1,0 +1,32 @@
+{
+    "Personality Trait Analysis": {
+        "O": {
+            "Mean": 3.0,
+            "Std Dev": 2.0
+        },
+        "C": {
+            "Mean": 2.83,
+            "Std Dev": 1.99
+        },
+        "E": {
+            "Mean": 4.0,
+            "Std Dev": 1.73
+        },
+        "A": {
+            "Mean": 2.17,
+            "Std Dev": 1.82
+        },
+        "N": {
+            "Mean": 3.83,
+            "Std Dev": 1.82
+        }
+    },
+    "Answer Choice Distribution": {
+        "A": 120,
+        "B": 0,
+        "C": 0,
+        "D": 0,
+        "E": 0,
+        "UNK": 0
+    }
+}
